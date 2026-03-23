@@ -1,6 +1,6 @@
 # 💫 About Me:
-## Hi there, I'm Davann 👋
 
+## Hi there, I'm Davann 👋
 <br><br>I am a **Software Engineer** passionate about building scalable web applications and sharing technical knowledge with the community. I specialize in full-stack development, UI/UX and Graphic Designer cloud basic, ML&AI and DevOps workflows.<br><br>
 
 ## 🔭 What I'm Working On<br>
