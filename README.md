@@ -1,7 +1,16 @@
 # 💫 About Me:
 
 ## Hi there, I'm Davann 👋
-<br><br>I am a **Software Engineer** passionate about building scalable web applications and sharing technical knowledge with the community. I specialize in full-stack development, UI/UX and Graphic Designer cloud basic, ML&AI and DevOps workflows.<br><br>
+
+<p align="center">
+  Software Engineer | Technical Educator | AI Enthusiast
+</p>
+
+<br><br>I am a **Software Engineer** passionate about building scalable web applications and sharing technical knowledge with the community. I specialize in full-stack development, UI/UX and Graphic Designer, cloud basic, ML&AI and DevOps workflows.<br><br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXh6bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+</p>
 
 ## 🔭 What I'm Working On<br>
 - 🎓 Managing technical training programs and scholarships at **JomNum Tech**.<br>
