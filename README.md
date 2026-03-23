@@ -3,10 +3,10 @@
 ## Hi there, I'm Davann 👋
 
 <h3 align="center">
-  Software Engineer | Technical Educator | AI Enthusiast
+  Software Developer | Technical Educator | AI Enthusiast
 </h3>
 <p>
-I am a <b>Software Engineer</b> passionate about building scalable web applications and sharing technical knowledge with the community. I specialize in full-stack development, UI/UX and Graphic Designer and also similar to cloud basic, ML&AI and DevOps workflows. 
+I am a <b>Software Developer</b> passionate about building scalable web applications and sharing technical knowledge with the community. I specialize in full-stack development, UI/UX and Graphic Designer and also similar to cloud basic, ML&AI and DevOps workflows. 
 <br><br>
 To empower the next generation of Khmer developers through high-quality education, mentorship, and the development of localized digital solutions that solve real-world problems.
 </p>
